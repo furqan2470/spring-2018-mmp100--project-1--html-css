@@ -1,0 +1,42 @@
+#body {
+
+}
+h2 {
+	font-family: Bellefair;
+}
+
+p {
+	font-family: Lato;
+}
+#container {
+background-color: white;
+}
+
+#header {
+background-color: #66CCFF;
+color: white;
+text-align: center;
+}
+#content img {
+	width: 100%;
+	height: auto;
+}#timeline img {
+	width: 100%;
+	height: auto;
+}
+#content {
+padding: 10px;
+width: 1000px;
+font-family: Lato;
+}
+
+#timeline {
+width: 350px;
+float: left;
+}
+
+#description {
+width: 350px;
+float:right;
+}
+
